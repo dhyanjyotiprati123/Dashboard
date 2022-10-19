@@ -121,7 +121,7 @@ const Home = () => {
         </div>
         <div>
           <div
-            className=" rounded-2xl md:w-400 p-4 m-3"
+            className=" rounded-2xl md:w-300 p-4 m-3"
             style={{ backgroundColor: currentColor }}
           >
             <div className="flex justify-between items-center ">
